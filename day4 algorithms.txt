@@ -1,0 +1,28 @@
+checking eligibility of voting
+
+step1:start
+step2:decalre the variable of age
+step3:read the value of the variable age
+step4:if the age is grater than or equal to 18 (age>=18)
+	print eligible for voting
+step5:otherwise print not eligible to vote
+step6:stop
+
+checking the eligibility of joining the college
+
+step1:start
+step2:declare the variable percentage
+step3:read the value of the variable percentage
+step4:if the percentage is grater than or equal to 70 percentage
+	print eligible to join the college
+step5:otherwise print not eligible to join the college
+step6:stop
+
+finding the sum and average of 3 numbers
+
+step1:start
+step2:declare num1,num2,num3,sum,average
+step3:read the values of num1,num2,num3
+step4:calculate the sum of the numbers by adding the three numbers
+	(num1+num2+num3)
+step5:add the result in the sum

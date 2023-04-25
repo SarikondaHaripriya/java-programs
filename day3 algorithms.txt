@@ -1,0 +1,171 @@
+average of 3 numbers
+
+step1:start
+step2:declare number1,number2,number3,sum,average
+step3:read the values number1,number2,number3
+step4:add the values of  number1,number2,number3
+step5:add the value to sum<--number1+number2+number3
+step6:perform the average function on sum value by dividing it by the number of values<---sum/3
+step7:add the result value to the average
+step8:stop
+
+area of the rectangle
+
+step1:start
+step2:declare length,breadth,area
+step3:read the values of length and breadth
+step4:perform the function of area of the rectangle as length*breadth
+step5:store the result value in  the area<---
+step6:display area
+step7:stop
+
+perimeter of the  rectangle
+
+step1:start
+step2:declare length,breadth,perimeter
+step3:read the values of length and breadth
+step4:perform the formula of perimeter of a rectangle
+	<---2*(length+breadth)
+step5:add the result value into the perimeter
+step6:dispaly the perimeter
+step7:stop
+
+area of the square
+
+step1:start
+step2:declare side,sum
+step3:read the values of the side
+step4:perform  the function area of the square<----side*side
+step5:add the resule to the area
+step6:display the area
+step7:stop
+
+perimeter of the square
+
+step1:start
+step2:decalre side,perimeter
+step3:read the value of the side
+step4:perform the function perimeter of the square<-----4*side
+step5:add the result to the perimeter
+step6:display the perimeter
+step7:stop  
+
+simple interest
+
+step1:start
+step2:declare principleamount,time,rateofinterest,simple interest
+step3:read the values of principleamount,time,rateif interest
+step4:calculate the simple interest using the formula <----principleamount*time*rateofinterest/100 
+step5:add the result value into simple interest
+step6:display the simple interest
+step7:stop
+
+percentage of the student
+
+step1:start
+step2:declare marks of sub1,sub2,sub3,sub4,sub5,percentage
+step3:read the values of the marks of sub1,sub2,sub3,sub4,sub5
+step4:calculate the percentage of the marks using the formula
+	((sub1+sub2+sub3+sub4+sub5)/500)*100
+step5:store the result value into the percentage
+step6:print percentage
+step7:stop
+
+swapping of two numbers
+
+step1:start
+step2:declare number1,number2,number3
+step3:read the values of number1,number2
+	number1=20,number3=30
+step4:swap the value in the  number1 to number3
+	number3=20
+step5:now swap the value of number2 to number1
+	number1=30
+step6:now swap the the value in the number3 to number2
+	number2=20
+step7:diaplay the swapped values
+	number1=30,number=20
+step8:stop
+
+swapping using arthimatic operators
+
+step1:start
+step2:declare two variables a,b
+step3:read values of a,b
+step4:a=a+b
+step5:b=a-b
+step6:a=a-b
+step7:print swapped numbers
+step8:stop
+
+even numbers
+
+step1:start
+step2:declare a variable A
+step3:read the value of A
+step4:check the number is even or not using the condition--->if A%2==0 
+step5:then print the variable A is even else false
+step6:stop
+
+positive or negative numbers
+
+step1:start
+step2:declare a variable
+step3:read the value of the variable
+step4:if the value of the variable is greaterthan 0(>0)
+	print positive number
+step5:else if the value of the variable is lessthan0(<0)
+	print negative number
+Step6:stop
+
+finding the biggest number
+
+step1:start
+step2:declare variables a,b
+step3:read the values of a,b
+step4:if the variable a is greater than or equal to b (>=)then print a is bigger number
+step5:else print the variable b is bigger
+step6:stop
+
+biggest among 3
+
+step1:start
+step2:declare 3 variables number1,number2,number3
+step3:read the values of number1,number2,number3
+step4:if the value of the variable number1 is is greater than number2 and number3((number1>number2)&&(number1>number3))
+	print number1 is bigger
+step5:if the value of the variable number2 is greater than number3 and number1((number2>number3)&&(number2>number1))
+	print number2 is bigger
+step6:else print number3 is bigger
+step7:stop   
+
+grades
+
+step1:start
+step2:declare the variables of the subjects physics,chemistry,biology,mathematics,computers,percentage
+step3:read the values of subjects physics,chemistry,biology,mathematics,computers
+step4:calculate the percentage using the formula the number of marks obtained divided with the total marks and multiply with 100
+	((physics+chemistry+biology+mathematics+computers)/500)*100
+step5:store the result into the percentage
+step6:if the percentage is greater than or equal to 90 print A grade
+	percentage>=90
+step7:elseif the percentage is greater than or equal to 80 print B grade
+	percentage>=80
+step8:elseif the percentage is greater than or equal to 70 print c grade
+	percentage>=70
+step9:elseif the percentage is greater than or equal to 60 print D grade
+	percentage>=60
+step10:elseif the percentage is grater than or equal to 40 print E grade
+	percentage>=40
+step11:else print fail
+step12:stop
+
+declare vowel or consonant
+
+step1:start
+step2:declare a variable 
+step3:read the variable
+step4:if the variable is equal to a or e or i or o or u print the variable is vowel
+	(variable=a||e||i||o||u) 
+step5:else print the variable is consonant
+step6:stop
