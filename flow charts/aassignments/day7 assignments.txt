@@ -1,0 +1,32 @@
+1. print bitlabs 10times
+2. print 1 to 100 or 1 to 10 numbers
+3. print the sum of 1 to 20 numbers
+4.print the even number from 1 to 50
+5. print the odd numbers from 1 to 50
+6. print sum of even numbers from 1 to 20
+7. print sum of odd number from 1 to 20
+8.print mutiplication table
+
+
+multiplication algorithm
+
+
+step1:start
+step2:intialise variable n amd m
+step3:read the value of m to 1
+step4:multiply m with n and store the result into n (n=n*m)
+step5:increment m by 1 (m=m+1)
+step6:repeat steps 4 and 5 until m<=10
+step7:print m
+step8:stop
+
+
+step1:start
+step2:declare i,n,res
+step3:assign i=2,n=1
+step4:check n<=10 is true goto step5 otherwise go to step9
+step5:calculate i*n=res
+step6:print res
+step7:increment n value by 1(n=n+1)
+step8:repeat the step4,5,6,7 untill it reaches n<=10
+step9:stop
