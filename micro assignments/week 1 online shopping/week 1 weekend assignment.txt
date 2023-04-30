@@ -1,0 +1,7 @@
+week 1 weekend assignment 
+
+ Draw a flow chart on Online shopping:
+a. Order processing flowchart
+b. Returns and exchanges flowchart
+c. Payment processing flowchart
+d. Customer account management flowchart

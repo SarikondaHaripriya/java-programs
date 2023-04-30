@@ -1,0 +1,80 @@
+micro assignment
+
+restaurant management system
+
+1.customer
+2.order placing
+3.kitchen
+4.serving
+5.management(providing salaries)
+6.billing
+7.customer review(feedback)
+
+1.customer
+step1:start
+step2:declare the customer,restaurent
+step3:read the menucard from the restaurent
+step4:place the order with requirements
+step5:receive order from the server if food is available otherwise wait for sometime go to step7
+step6:if the order food is not available leave 
+step7:receive the order pay the bill
+step8:provide the feedback
+step9:stop
+
+
+2.order placing
+
+step1:start 
+step2:declare the menu card
+step3:read the menu card
+step4:place the order with customer requirements
+step5:required order should be served to the customer if the ordered food is available
+step6:otherwise replace the order
+step7:stop
+
+3.kitchen
+
+step1:start
+step2:declare the order items
+step3:read the order items
+step4:after getting the order the kitchen members verify if the groceries are availble to prepare the dish that has been ordered
+step5:otherwise display ordered food is not available
+step:stop
+
+4.serving
+
+step1:start
+step2:declare the order
+step3:read the order from the customer
+step4:after receiving the order move to the kitchen
+step5:after completion of the order from the kitchen
+	serve to the customer
+step6:stop
+
+5.management(providing salaries)
+
+step1:start
+step2:declare the management team in the restaurent
+step3:read the work done by the workers
+step4:after checking the work done by the employees and based on the customers review manager provides the salaries as highest paid
+step5:otherwise pay the minimum salaries
+step6:stop
+
+6.billing
+step1:start
+step2:declare the ordered items,bill
+step3:read the ordered items and bill the items
+step4:deliver the bill to the customer
+step5:asks for cash or card or online payments
+step6:if cash they receive cash otherwise card or online payments
+step7:receive payments
+step6:stop
+
+7.customer feed back
+
+step1:Start
+step2:Declare the feedback for the order and serving management
+step3:By giving the Form or Direct intract With the customer.
+step4:if the food and serving is good they can give the 5stars to that particular food order.
+step5:otherwise if the customer is not staisfied they can give the can 3 or 4 star to that food order.
+step6:stop
